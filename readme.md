@@ -1,3 +1,4 @@
+copy from https://github.com/Firedamp/RudeAdaptDemo
 
 本项目是[一种粗暴快速的Android全屏幕适配方案](http://www.jianshu.com/p/b6b9bd1fba4d)的demo。
 
